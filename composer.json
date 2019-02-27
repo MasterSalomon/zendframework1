@@ -1,6 +1,6 @@
 {
-    "name": "zendframework/zendframework1",
-    "description": "Zend Framework 1",
+    "name": "mobtitude/zendframework1",
+    "description": "Zend Framework 1 fork compatible with PHP 7.2 by Mobtitude",
     "type": "library",
     "keywords": [
         "framework",
