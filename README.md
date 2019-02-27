@@ -5,10 +5,10 @@ Welcome to the Zend Framework 1.12 Release by Mobtitude!
 RELEASE INFORMATION
 ===================
 
-Zend Framework 1.12.20 with partial support of PHP 7.2. 
+Zend Framework 1.12.21 with partial support of PHP 7.2. 
 Released on Feb 27, 2019.
 
-IMPORTANT FIXES FOR 1.12.20-php-7.2
+IMPORTANT FIXES FOR 1.12.21
 ---------------------------
 
 Fixed some major compatibility issues with PHP 7.2
