@@ -4,9 +4,10 @@
     "type": "library",
     "keywords": [
         "framework",
-        "zf1"
+        "zf1",
+        "7.2"
     ],
-    "homepage": "http://framework.zend.com/",
+    "homepage": "https://github.com/mobtitude/zendframework1",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.2.11"
