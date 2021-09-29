@@ -223,6 +223,7 @@ class Zend_Amf_Util_BinaryStream
     {
         $this->writeLong($this->_mbStringFunctionsOverloaded ? mb_strlen($stream, '8bit') : strlen($stream));
         $this->_stream.= $stream;
+        return $this;
     }
 
     /**
