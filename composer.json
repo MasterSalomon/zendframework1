@@ -1,16 +1,16 @@
 {
     "name": "mobtitude/zendframework1",
-    "description": "Zend Framework 1 fork compatible with PHP 7.4 by Mobtitude",
+    "description": "Zend Framework 1 fork compatible with PHP 7.2 by Mobtitude",
     "type": "library",
     "keywords": [
         "framework",
         "zf1",
-        "php-7.4"
+        "php-7.2"
     ],
     "homepage": "https://github.com/mobtitude/zendframework1",
     "license": "BSD-3-Clause",
     "require": {
-        "php": "^7.4"
+        "php": ">=5.2.2"
     },
     "autoload": {
         "psr-0": {
